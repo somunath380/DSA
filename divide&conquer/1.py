@@ -9,5 +9,19 @@ class TreeNode:
         self.right = right
 class Solution:
     def sortedArrayToBST(self, nums: List[int]) -> Optional[TreeNode]:
-        pass
+        def return_mid_node(nums):
+            if not nums:
+                return
+            n = len(nums)
+            mid_index = n//2
+            mid_node = TreeNode(nums[mid_index])
+            left_node = return_mid_node(nums[:mid_index])
+            right_node = return_mid_node(nums[mid_index+1:])
+            mid_node.left = left_node
+            mid_node.right = right_node
+            return mid_node
+        return return_mid_node(nums)
 
+nums = [-10,-3,0,5,9]
+s = Solution()
+print(s.sortedArrayToBST(nums))
