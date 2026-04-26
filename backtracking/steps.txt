@@ -1,0 +1,61 @@
+def backtrack(state, choices):
+    if goal_reached(state):
+        record_answer(state)
+        return
+
+    for choice in choices:
+        if is_valid(choice, state):
+            make_choice(state, choice)
+            backtrack(state, updated_choices)
+            undo_choice(state, choice)
+
+Step 1: Identify the "state"
+
+The state represents:
+
+what you’ve built so far
+
+the current node in your recursion tree
+
+Examples:
+
+building a string → path = []
+
+building subsets → subset = []
+
+building permutations → perm = []
+
+solving Sudoku → board
+
+
+Step 2: Identify the "choices"
+
+Choices = what you can try at this step:
+
+For subsets → choose index or skip it (2 choices)
+
+For permutations → choose any element not yet used
+
+For N-Queens → choose which column to place a queen
+
+For Sudoku → digits 1–9
+
+
+Step 3: The 3 golden functions
+1. make_choice → add to state
+2. undo_choice → remove from state
+3. is_valid → prune invalid paths early
+
+These map directly to edges in your recursion tree.
+
+Step 4: Base case — when to record an answer
+
+This is when you reach a leaf node in the recursion tree.
+
+Examples:
+
+path length == target length
+
+all elements processed
+
+board completely filled

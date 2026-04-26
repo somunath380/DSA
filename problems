@@ -1,0 +1,219 @@
+arrays
+
+simple
+1. https://leetcode.com/problems/build-array-from-permutation/description/
+2. https://leetcode.com/problems/concatenation-of-array/description/
+3. https://leetcode.com/problems/shuffle-the-array/description/
+4. https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/description/
+5. https://leetcode.com/problems/decode-xored-array/description/
+
+prefix sum
+1. https://leetcode.com/problems/running-sum-of-1d-array/description/
+2. https://leetcode.com/problems/find-the-highest-altitude/description/
+3. https://leetcode.com/problems/find-pivot-index/description/
+4. https://leetcode.com/problems/maximum-xor-for-each-query/description/
+5. https://leetcode.com/problems/matrix-block-sum/description/
+
+sorting
+1. https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/description/
+2. https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/description/
+3. https://leetcode.com/problems/maximum-product-difference-between-two-pairs/description/
+4. https://leetcode.com/problems/find-target-indices-after-sorting-array/description/
+5. https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/description/
+
+hashing
+1. https://leetcode.com/problems/number-of-good-pairs/description/
+2. https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/description/
+3. https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/description/
+4. https://leetcode.com/problems/count-the-number-of-consistent-strings/description/
+5. https://leetcode.com/problems/unique-morse-code-words/description/
+
+bit manipulation
+1. https://leetcode.com/problems/decode-xored-array/description/
+2. https://leetcode.com/problems/count-the-number-of-consistent-strings/description/
+3. https://leetcode.com/problems/sum-of-all-subset-xor-totals/description/
+4. https://leetcode.com/problems/divide-array-into-equal-pairs/description/
+5. https://leetcode.com/problems/set-mismatch/description/
+
+2 pointer
+1. https://leetcode.com/problems/flipping-an-image/description/
+2. https://leetcode.com/problems/find-first-palindromic-string-in-the-array/description/
+3. https://leetcode.com/problems/di-string-match/description/
+4. https://leetcode.com/problems/sort-array-by-parity/description/
+5. https://leetcode.com/problems/squares-of-a-sorted-array/description/
+
+binary search
+1. https://leetcode.com/problems/find-target-indices-after-sorting-array/description/
+2. https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/description/
+3. https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/description/
+4. https://leetcode.com/problems/search-insert-position/description/
+5. https://leetcode.com/problems/check-if-n-and-its-double-exist/description/
+
+dynamic programming
+1. https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
+2. https://leetcode.com/problems/get-maximum-in-generated-array/description/
+3. https://leetcode.com/problems/maximum-subarray/description/
+4. https://leetcode.com/problems/stone-game-ii/description/
+5. https://leetcode.com/problems/beautiful-arrangement/description/
+
+sliding window
+https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/description/
+https://leetcode.com/problems/maximum-average-subarray-i/description/
+https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/description/
+https://leetcode.com/problems/binary-subarrays-with-sum/description/
+https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/description/
+
+geometry
+https://leetcode.com/problems/check-if-it-is-a-straight-line/description/
+https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle/description/
+https://leetcode.com/problems/detonate-the-maximum-bombs/description/
+https://leetcode.com/problems/max-points-on-a-line/description/
+
+matrix
+https://leetcode.com/problems/richest-customer-wealth/description/
+https://leetcode.com/problems/flipping-an-image/description/
+https://leetcode.com/problems/matrix-diagonal-sum/description/
+https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/description/
+https://leetcode.com/problems/subrectangle-queries/description/
+
+
+strings
+
+simple strings
+
+https://leetcode.com/problems/final-value-of-variable-after-performing-operations/description/
+https://leetcode.com/problems/defanging-an-ip-address/description/
+https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/description/
+https://leetcode.com/problems/goal-parser-interpretation/description/
+https://leetcode.com/problems/shuffle-string/description/
+
+hashing
+https://leetcode.com/problems/jewels-and-stones/description/
+https://leetcode.com/problems/count-the-number-of-consistent-strings/description/
+https://leetcode.com/problems/rings-and-rods/description/
+https://leetcode.com/problems/check-if-the-sentence-is-pangram/description/
+https://leetcode.com/problems/increasing-decreasing-string/description/
+
+sorting
+https://leetcode.com/problems/sorting-the-sentence/description/
+https://leetcode.com/problems/sort-characters-by-frequency/description/
+https://leetcode.com/problems/find-and-replace-pattern/description/
+https://leetcode.com/problems/find-the-difference/description/
+https://leetcode.com/problems/valid-anagram/description/
+
+2 pointer
+https://leetcode.com/problems/find-first-palindromic-string-in-the-array/description/
+https://leetcode.com/problems/reverse-words-in-a-string-iii/description/
+https://leetcode.com/problems/reverse-prefix-of-word/description/
+https://leetcode.com/problems/di-string-match/description/
+https://leetcode.com/problems/merge-strings-alternately/description/
+
+counting
+https://leetcode.com/problems/split-a-string-in-balanced-strings/description/
+https://leetcode.com/problems/determine-if-string-halves-are-alike/description/
+https://leetcode.com/problems/increasing-decreasing-string/description/
+https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences/description/
+https://leetcode.com/problems/kth-distinct-string-in-an-array/description/
+
+sliding window
+https://leetcode.com/problems/maximize-the-confusion-of-an-exam/description/
+https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/description/
+https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/description/
+https://leetcode.com/problems/longest-nice-substring/description/
+https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/description/
+
+bit manipulation
+https://leetcode.com/problems/count-the-number-of-consistent-strings/description/
+https://leetcode.com/problems/longest-nice-substring/description/
+https://leetcode.com/problems/find-the-difference/description/
+https://leetcode.com/problems/add-binary/description/
+https://leetcode.com/problems/letter-case-permutation/description/
+
+dynamic programming
+https://leetcode.com/problems/is-subsequence/description/
+https://leetcode.com/problems/count-substrings-that-differ-by-one-character/description/
+https://leetcode.com/problems/generate-parentheses/description/
+https://leetcode.com/problems/number-of-good-ways-to-split-a-string/description/
+https://leetcode.com/problems/different-ways-to-add-parentheses/description/
+
+prefix sum
+https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/description/
+https://leetcode.com/problems/maximize-the-confusion-of-an-exam/description/
+https://leetcode.com/problems/minimum-white-tiles-after-covering-with-carpets/description/
+
+recursion
+https://leetcode.com/problems/reverse-string/description/
+https://leetcode.com/problems/different-ways-to-add-parentheses/description/
+https://leetcode.com/problems/palindrome-partitioning/description/
+https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/description/
+https://leetcode.com/problems/maximum-score-words-formed-by-letters/description/
+
+backtracking
+https://leetcode.com/problems/binary-tree-paths/description/
+https://leetcode.com/problems/letter-tile-possibilities/description/
+https://leetcode.com/problems/iterator-for-combination/description/
+https://leetcode.com/problems/letter-case-permutation/description/
+https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/description/
+
+string matching
+https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/description/
+https://leetcode.com/problems/string-matching-in-an-array/description/
+https://leetcode.com/problems/rotate-string/description/
+https://leetcode.com/problems/repeated-substring-pattern/description/
+https://leetcode.com/problems/maximum-repeating-substring/description/
+
+
+maths
+
+number theory
+https://leetcode.com/problems/find-greatest-common-divisor-of-array/description/
+https://leetcode.com/problems/add-digits/description/
+https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/description/
+https://leetcode.com/problems/simplified-fractions/description/
+https://leetcode.com/problems/number-of-pairs-of-interchangeable-rectangles/description/
+
+game theory
+https://leetcode.com/problems/divisor-game/description/
+https://leetcode.com/problems/nim-game/description/
+https://leetcode.com/problems/maximum-number-of-coins-you-can-get/description/
+https://leetcode.com/problems/stone-game/description/
+https://leetcode.com/problems/stone-game-ii/description/
+
+geometry
+https://leetcode.com/problems/minimum-time-visiting-all-points/description/
+https://leetcode.com/problems/projection-area-of-3d-shapes/description/
+https://leetcode.com/problems/matrix-cells-in-distance-order/description/
+https://leetcode.com/problems/check-if-it-is-a-straight-line/description/
+https://leetcode.com/problems/valid-boomerang/description/
+
+search and sorting
+
+binary search
+1. https://leetcode.com/problems/find-target-indices-after-sorting-array/description/
+2. https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/
+3. https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/description/
+4. https://leetcode.com/problems/peak-index-in-a-mountain-array/description/
+5. https://leetcode.com/problems/intersection-of-two-arrays/description/
+
+
+sorting
+1. https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/description/
+2. https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/description/
+3. https://leetcode.com/problems/sorting-the-sentence/description/
+4. https://leetcode.com/problems/maximum-product-difference-between-two-pairs/description/
+5. https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/description/
+
+divide and conquer
+1. https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/
+2. https://leetcode.com/problems/majority-element/description/
+3. https://leetcode.com/problems/maximum-subarray/description/
+4. https://leetcode.com/problems/reverse-bits/description/
+5. https://leetcode.com/problems/maximum-binary-tree/description/
+
+
+
+
+
+
+
+
