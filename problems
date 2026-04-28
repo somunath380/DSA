@@ -210,10 +210,66 @@ divide and conquer
 4. https://leetcode.com/problems/reverse-bits/description/
 5. https://leetcode.com/problems/maximum-binary-tree/description/
 
+Linked List
+    sorting
+    1. https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/
+    2. https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/
+    3. https://leetcode.com/problems/sort-list/description/
 
+    rotate
+    1. https://leetcode.com/problems/rotate-list/description/
 
+    reverse
+    1. https://leetcode.com/problems/reverse-linked-list/description/
+    2. https://leetcode.com/problems/reverse-linked-list-ii/description/
 
+    split
+    1. https://leetcode.com/problems/split-linked-list-in-parts/
 
+    remove
+    1. https://leetcode.com/problems/remove-linked-list-elements/description/
+    2. https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/
+    3. https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/
+    4. https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/
+    5. https://leetcode.com/problems/delete-node-in-a-linked-list/description/
+
+    reorder
+    1. https://leetcode.com/problems/reorder-list/description/
+    2. https://leetcode.com/problems/odd-even-linked-list/description/
+
+    multiple pointer
+    1. https://leetcode.com/problems/middle-of-the-linked-list/description/
+    2. https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/description/
+    3. https://leetcode.com/problems/reorder-list/description/
+    4. https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/
+    5. https://leetcode.com/problems/partition-list/description/
+
+    recursion
+    1. https://leetcode.com/problems/add-two-numbers/description/
+    2. https://leetcode.com/problems/merge-two-sorted-lists/description/
+    3. https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/description/
+    4. https://leetcode.com/problems/swap-nodes-in-pairs/description/
+    5. https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/
+
+    iterative manner
+    1. https://leetcode.com/problems/add-two-numbers/description/
+    2. https://leetcode.com/problems/merge-two-sorted-lists/description/
+    3. https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/description/
+    4. https://leetcode.com/problems/middle-of-the-linked-list/description/
+    5. https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/description/
+
+    stack based
+    1. https://leetcode.com/problems/reorder-list/description/
+    2. https://leetcode.com/problems/add-two-numbers-ii/description/
+    3. https://leetcode.com/problems/next-greater-node-in-linked-list/description/
+
+    divide and conquer
+    1. https://leetcode.com/problems/sort-list/description/
+
+    hashing
+    1. https://leetcode.com/problems/intersection-of-two-linked-lists/description/
+    2. https://leetcode.com/problems/linked-list-components/description/
+    3. https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/description/
 
 
 
