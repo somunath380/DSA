@@ -9,7 +9,21 @@ class ListNode:
 class Solution:
     def deleteDuplicates(self, head: Optional[ListNode]) -> Optional[ListNode]:
         curr = head
-        while curr.next is not None:
+        dummy = ListNode(-1)
+        prev = dummy
+        while curr is not None:
+            temp = curr
+            while curr.next is not None and curr.val == curr.next.val: # check if curr node is part of duplicate
+                curr = curr.next
+                continue
+            if curr is temp: # if inner loop never runned means the curr is a unique node
+                prev.next = curr
+                prev = curr
+                curr = curr.next
+            else: # inner loop runned and curr is duplicate
+                curr = curr.next
+                prev.next = curr
+        return dummy.next
             
 
 l=ListNode(1)
