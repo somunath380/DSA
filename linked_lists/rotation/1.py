@@ -6,30 +6,26 @@ class ListNode:
         self.val = val
         self.next = next
 
-def get_node_counts(head: ListNode):
+def get_node_counts_and_tail(head: ListNode):
     count, curr = 0, head
-    while curr:
+    while curr.next:
         count+=1
         curr = curr.next
-    return count
+    return count+1, curr
 
 def rotateRight(head: Optional[ListNode], k: int) -> Optional[ListNode]:
-    n = get_node_counts(head)
-    if k==0 or k%n == 0:
+    n, tail = get_node_counts_and_tail(head)
+    k=k%n
+    if k==0 or not head:
         return head
-    if k>n:
-        k = n-k
-    curr, last = head, head
-    while last.next:
-        last = last.next
-    prev = ListNode()
-    while k and curr.next: # will get prev which will be last node and curr which will be head
-        prev = curr
+    counter = n-k-1
+    curr, start = head, head
+    while counter:
         curr = curr.next
-        k-=1
-    prev.next = None
-    new_head = curr
-    last.next = head
+        counter-=1
+    new_head = curr.next
+    curr.next = None
+    tail.next = start
     return new_head
 
 l = ListNode(1)
