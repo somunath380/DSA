@@ -271,5 +271,47 @@ Linked List
     2. https://leetcode.com/problems/linked-list-components/description/
     3. https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/description/
 
+stack
+
+simple stack:
+1. https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/description/
+2. https://leetcode.com/problems/remove-outermost-parentheses/description/
+3. https://leetcode.com/problems/baseball-game/description/
+4. https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/description/
+5. https://leetcode.com/problems/build-an-array-with-stack-operations/description/
+
+monotonic stack:
+1. https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/
+2. https://leetcode.com/problems/next-greater-element-i/description/
+3. https://leetcode.com/problems/min-stack/description/
+4. https://leetcode.com/problems/maximum-binary-tree/description/
+5. https://leetcode.com/problems/daily-temperatures/description/
+
+2 pointer:
+1. https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/description/
+2. https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/description/
+3. https://leetcode.com/problems/trapping-rain-water/description/
+4. https://leetcode.com/problems/maximum-score-of-a-good-subarray/description/
+
+DP based
+1. https://leetcode.com/problems/longest-valid-parentheses/description/
+2. https://leetcode.com/problems/trapping-rain-water/description/
+3. https://leetcode.com/problems/maximal-rectangle/description/
+4. https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/description/
+5. https://leetcode.com/problems/valid-parenthesis-string/description/
+
+recursion
+1. https://leetcode.com/problems/n-ary-tree-postorder-traversal/description/
+2. https://leetcode.com/problems/n-ary-tree-preorder-traversal/description/
+3. https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/description/
+4. https://leetcode.com/problems/basic-calculator/description/
+
+design
+1. https://leetcode.com/problems/implement-queue-using-stacks/
+2. https://leetcode.com/problems/implement-stack-using-queues/description/
+3. https://leetcode.com/problems/min-stack/description/
+4. https://leetcode.com/problems/design-a-stack-with-increment-operation/description/
+5. https://leetcode.com/problems/online-stock-span/description/
+
 
 
